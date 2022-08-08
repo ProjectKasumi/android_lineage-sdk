@@ -63,7 +63,7 @@
     <string name="permlab_manageRemotePrefs">håndtere fjernbetjeningsindstillinger</string>
     <string name="permdesc_manageRemotePrefs">Tillader en app at håndtere fjernbetjeningsindstillinger</string>
     <string name="lineage_api_level">LineageOS API-niveau</string>
-    <string name="lineage_updates">LineageOS-opdateringer</string>
+    <string name="lineage_updates">Kasumi-opdateringer</string>
     <string name="lineage_version">Kasumi-version</string>
     <string name="lineage_vendor_security_patch">Producent-sikkerhedsrettelsesniveau</string>
     <string name="kilobitspersecond_short">kb/s</string>

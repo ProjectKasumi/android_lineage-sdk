@@ -64,7 +64,7 @@
     <string name="permdesc_manageRemotePrefs">Bir uygulamaya uzak bağlantı ayarlarını yönetme izni verir</string>
     <string name="build_date">İnşa tarihi</string>
     <string name="lineage_api_level">LineageOS API düzeyi</string>
-    <string name="lineage_updates">LineageOS güncellemeleri</string>
+    <string name="lineage_updates">Kasumi güncellemeleri</string>
     <string name="lineage_version">Kasumi sürümü</string>
     <string name="lineage_vendor_security_patch">Üretici güvenlik yaması düzeyi</string>
     <string name="unknown">Bilinmiyor</string>

@@ -64,7 +64,7 @@
     <string name="permdesc_manageRemotePrefs">Позволява на приложението да управлява отдалечени настройки</string>
     <string name="build_date">Дата на изграждане</string>
     <string name="lineage_api_level">LineageOS приложно-програмен интерфейс ниво</string>
-    <string name="lineage_updates">LineageOS актуализации</string>
+    <string name="lineage_updates">Kasumi актуализации</string>
     <string name="lineage_version">Версия на Kasumi</string>
     <string name="lineage_vendor_security_patch">Ниво на сигурност на доставчик</string>
     <string name="unknown">Неизвестно</string>

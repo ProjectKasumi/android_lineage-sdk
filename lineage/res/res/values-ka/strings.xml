@@ -64,7 +64,7 @@
     <string name="permdesc_manageRemotePrefs">პროგრამისთვის ნების დართვა, რომ შეეძლოს დაშორებული პარამეტრების გამართვა </string>
     <string name="build_date">აწყობის თარიღი</string>
     <string name="lineage_api_level">LineageOS-ის API-ს დონე</string>
-    <string name="lineage_updates">LineageOS-ის განახლებები</string>
+    <string name="lineage_updates">Kasumi-ის განახლებები</string>
     <string name="lineage_version">Kasumi-ის ვერსია</string>
     <string name="lineage_vendor_security_patch">მწარმოებლისგან უსაფრთხოების შესწორების დონე</string>
     <string name="unknown">უცნობი</string>

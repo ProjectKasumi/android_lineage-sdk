@@ -64,7 +64,7 @@
     <string name="permdesc_manageRemotePrefs">ಗೆಂಟಂಕೆ ಅಳವಡಿಕೆಗಳನ್ನು ನಿರ್ವಹಿಸಲು ಅಪ್ಗೆ ಅನುಮತಿಸುತ್ತದೆ</string>
     <string name="build_date">ನಿರ್ಮಾಣ ದಿನಾಂಕ</string>
     <string name="lineage_api_level">LineageOS API ಮಟ್ಟ</string>
-    <string name="lineage_updates">LineageOS ನವೀಕರಣಗಳು</string>
+    <string name="lineage_updates">Kasumi ನವೀಕರಣಗಳು</string>
     <string name="lineage_version">Kasumi ಆವೃತ್ತಿ</string>
     <string name="lineage_vendor_security_patch">Android ಭದ್ರತಾ ತೇಪೆ ಮಟ್ಟ</string>
     <string name="unknown">ಅಜ್ಞಾತ</string>

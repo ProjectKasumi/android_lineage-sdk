@@ -64,7 +64,7 @@
     <string name="permdesc_manageRemotePrefs">อนุญาตให้แอปจัดการการตั้งค่าระยะไกล</string>
     <string name="build_date">วันที่สร้าง</string>
     <string name="lineage_api_level">ระดับ API ของ LineageOS</string>
-    <string name="lineage_updates">อัพเดตระบบ LineageOS</string>
+    <string name="lineage_updates">อัพเดตระบบ Kasumi</string>
     <string name="lineage_version">เวอร์ชั่น Kasumi</string>
     <string name="lineage_vendor_security_patch">ระดับแพทช์ความปลอดภัย Vendor</string>
     <string name="unknown">ไม่รู้จัก</string>

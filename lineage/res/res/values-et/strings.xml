@@ -64,7 +64,7 @@
     <string name="permdesc_manageRemotePrefs">Võimaldab rakendusel hallata kaugtöölaua sätteid</string>
     <string name="build_date">Järgu kuupäev</string>
     <string name="lineage_api_level">LineageOS\'i API tase</string>
-    <string name="lineage_updates">LineageOS\'i uuendused</string>
+    <string name="lineage_updates">Kasumi\'i uuendused</string>
     <string name="lineage_version">Kasumi\'i versioon</string>
     <string name="lineage_vendor_security_patch">Tarnija turvapaiga tase</string>
     <string name="unknown">Tundmatu</string>

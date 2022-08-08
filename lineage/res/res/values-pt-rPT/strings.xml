@@ -64,7 +64,7 @@
     <string name="permdesc_manageRemotePrefs">Permite que uma aplicação possa gerir definições remotas</string>
     <string name="build_date">Data de compilação</string>
     <string name="lineage_api_level">Nível da API LineageOS</string>
-    <string name="lineage_updates">Atualizações LineageOS</string>
+    <string name="lineage_updates">Atualizações Kasumi</string>
     <string name="lineage_version">Versão Kasumi</string>
     <string name="lineage_vendor_security_patch">Nível do patch de segurança do fabricante</string>
     <string name="unknown">Desconhecido</string>

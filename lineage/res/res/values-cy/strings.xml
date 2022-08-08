@@ -64,7 +64,7 @@
     <string name="permdesc_manageRemotePrefs">Mae\'n caniatáu ap i reoli gosodiadau o bell.</string>
     <string name="build_date">Dyddiad adeiledd</string>
     <string name="lineage_api_level">Lefel API LineageOS</string>
-    <string name="lineage_updates">Diweddariadau LineageOS</string>
+    <string name="lineage_updates">Diweddariadau Kasumi</string>
     <string name="lineage_version">Fersiwn Kasumi</string>
     <string name="lineage_vendor_security_patch">Lefel patsh diogelwch gwneuthurwr</string>
     <string name="unknown">Anhysybys</string>

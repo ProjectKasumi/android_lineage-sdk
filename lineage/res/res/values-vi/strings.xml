@@ -64,7 +64,7 @@
     <string name="permdesc_manageRemotePrefs">Cho phép một ứng dụng quản lý cài đặt từ xa</string>
     <string name="build_date">Ngày dựng</string>
     <string name="lineage_api_level">Cấp độ API LineageOS</string>
-    <string name="lineage_updates">Cập nhật LineageOS</string>
+    <string name="lineage_updates">Cập nhật Kasumi</string>
     <string name="lineage_version">Phiên bản Kasumi</string>
     <string name="lineage_vendor_security_patch">Nhà cung cấp mức bản vá bảo mật</string>
     <string name="unknown">Không rõ</string>

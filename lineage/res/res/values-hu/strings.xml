@@ -64,7 +64,7 @@
     <string name="permdesc_manageRemotePrefs">Lehetővé teszi az alkalmazások számára a távoli beállítások kezelését</string>
     <string name="build_date">A kiadás dátuma</string>
     <string name="lineage_api_level">A LineageOS API-szintje</string>
-    <string name="lineage_updates">LineageOS-frissítések</string>
+    <string name="lineage_updates">Kasumi-frissítések</string>
     <string name="lineage_version">Kasumi-verzió</string>
     <string name="lineage_vendor_security_patch">Gyártói biztonsági hibajavítócsomag-szint</string>
     <string name="unknown">Ismeretlen</string>

@@ -64,7 +64,7 @@
     <string name="permdesc_manageRemotePrefs">Umožňuje spravovať vzdialené nastavenia</string>
     <string name="build_date">Dátum zostavenia</string>
     <string name="lineage_api_level">Verzia LineageOS API</string>
-    <string name="lineage_updates">Aktualizácie LineageOS</string>
+    <string name="lineage_updates">Aktualizácie Kasumi</string>
     <string name="lineage_version">Verzia Kasumi</string>
     <string name="lineage_vendor_security_patch">Úroveň opravy zabezpečenia výrobcu</string>
     <string name="unknown">Neznáma</string>

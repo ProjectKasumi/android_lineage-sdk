@@ -64,7 +64,7 @@
     <string name="permdesc_manageRemotePrefs">Hjirmei kin de app ynstellingen foar behear op ôfstân beheare</string>
     <string name="build_date">Build-datum</string>
     <string name="lineage_api_level">LineageOS-API-Nivo</string>
-    <string name="lineage_updates">LineageOS-fernijingen</string>
+    <string name="lineage_updates">Kasumi-fernijingen</string>
     <string name="lineage_version">Kasumi-ferzje</string>
     <string name="lineage_vendor_security_patch">Leveransiers-befeiligingspatch-nivo</string>
     <string name="unknown">Unbekend</string>

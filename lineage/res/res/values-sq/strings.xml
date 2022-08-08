@@ -64,7 +64,7 @@
     <string name="permdesc_manageRemotePrefs">Lejon një aplikacion që të menaxhojë parametrat në distancë</string>
     <string name="build_date">Data e ndërtimit</string>
     <string name="lineage_api_level">Niveli API i LineageOS</string>
-    <string name="lineage_updates">Përditësimet e LineageOS</string>
+    <string name="lineage_updates">Përditësimet e Kasumi</string>
     <string name="lineage_version">Versioni i Kasumi</string>
     <string name="lineage_vendor_security_patch">Niveli i korrigjimit të sigurisë së Vendor</string>
     <string name="unknown">E panjohur</string>

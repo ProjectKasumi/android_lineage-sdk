@@ -64,7 +64,7 @@
     <string name="permdesc_manageRemotePrefs">Urruneko ezarpenak kudeatzea ahalbidetzen dio aplikazioari</string>
     <string name="build_date">Konpilatze data</string>
     <string name="lineage_api_level">LineageOS API maila</string>
-    <string name="lineage_updates">LineageOS eguneraketak</string>
+    <string name="lineage_updates">Kasumi eguneraketak</string>
     <string name="lineage_version">Kasumi bertsioa</string>
     <string name="lineage_vendor_security_patch">Ekoizlearen segurtasun partxe maila</string>
     <string name="unknown">Ezezaguna</string>

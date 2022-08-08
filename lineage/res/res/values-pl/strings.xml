@@ -64,7 +64,7 @@
     <string name="permdesc_manageRemotePrefs">Zezwala aplikacji na zarządzanie zdalnymi ustawieniami</string>
     <string name="build_date">Data kompilacji</string>
     <string name="lineage_api_level">Poziom API LineageOS</string>
-    <string name="lineage_updates">Aktualizacje LineageOS</string>
+    <string name="lineage_updates">Aktualizacje Kasumi</string>
     <string name="lineage_version">Wersja Kasumi</string>
     <string name="lineage_vendor_security_patch">Poziom poprawek zabezpieczeń producenta</string>
     <string name="unknown">Nieznane</string>

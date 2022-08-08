@@ -64,7 +64,7 @@
     <string name="permdesc_manageRemotePrefs">リモートの設定を管理することをアプリに許可します。</string>
     <string name="build_date">ビルド日時</string>
     <string name="lineage_api_level">LineageOS API レベル</string>
-    <string name="lineage_updates">LineageOS アップデート</string>
+    <string name="lineage_updates">Kasumi アップデート</string>
     <string name="lineage_version">Kasumi バージョン</string>
     <string name="lineage_vendor_security_patch">ベンダーセキュリティパッチレベル</string>
     <string name="unknown">不明</string>

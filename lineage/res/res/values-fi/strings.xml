@@ -64,7 +64,7 @@
     <string name="permdesc_manageRemotePrefs">Sallii sovellluksen hallita etäasetuksia</string>
     <string name="build_date">Luontipäivä</string>
     <string name="lineage_api_level">LineageOS API-taso</string>
-    <string name="lineage_updates">LineageOS-päivitykset</string>
+    <string name="lineage_updates">Kasumi-päivitykset</string>
     <string name="lineage_version">Kasumi-versio</string>
     <string name="lineage_vendor_security_patch">Valmistajan tietoturvakorjauksen taso</string>
     <string name="unknown">Tuntematon</string>
